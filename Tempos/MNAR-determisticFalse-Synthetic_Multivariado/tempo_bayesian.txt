@@ -1,0 +1,148 @@
+
+Dataset = dadosAtt05 com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.1819 s
+Tempo de treinamento para fold = 2 foi = 0.1679 s
+Tempo de treinamento para fold = 3 foi = 0.2356 s
+Tempo de treinamento para fold = 4 foi = 0.1645 s
+Tempo de treinamento para fold = 5 foi = 0.2192 s
+
+Dataset = dadosAtt05 com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.1802 s
+Tempo de treinamento para fold = 2 foi = 0.1654 s
+Tempo de treinamento para fold = 3 foi = 0.1566 s
+Tempo de treinamento para fold = 4 foi = 0.1871 s
+Tempo de treinamento para fold = 5 foi = 0.1652 s
+
+Dataset = dadosAtt05 com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.1586 s
+Tempo de treinamento para fold = 2 foi = 0.2341 s
+Tempo de treinamento para fold = 3 foi = 0.1455 s
+Tempo de treinamento para fold = 4 foi = 0.1498 s
+Tempo de treinamento para fold = 5 foi = 0.1479 s
+
+Dataset = dadosAtt10 com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.1007 s
+Tempo de treinamento para fold = 2 foi = 0.1493 s
+Tempo de treinamento para fold = 3 foi = 0.3524 s
+Tempo de treinamento para fold = 4 foi = 0.1540 s
+Tempo de treinamento para fold = 5 foi = 0.1394 s
+
+Dataset = dadosAtt10 com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.1864 s
+Tempo de treinamento para fold = 2 foi = 0.2319 s
+Tempo de treinamento para fold = 3 foi = 0.1600 s
+Tempo de treinamento para fold = 4 foi = 0.1237 s
+Tempo de treinamento para fold = 5 foi = 0.1289 s
+
+Dataset = dadosAtt10 com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.1352 s
+Tempo de treinamento para fold = 2 foi = 0.1548 s
+Tempo de treinamento para fold = 3 foi = 0.1500 s
+Tempo de treinamento para fold = 4 foi = 0.1302 s
+Tempo de treinamento para fold = 5 foi = 0.1585 s
+
+Dataset = dadosAtt20 com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.3627 s
+Tempo de treinamento para fold = 2 foi = 0.1243 s
+Tempo de treinamento para fold = 3 foi = 0.1091 s
+Tempo de treinamento para fold = 4 foi = 0.1354 s
+Tempo de treinamento para fold = 5 foi = 0.1316 s
+
+Dataset = dadosAtt20 com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.1636 s
+Tempo de treinamento para fold = 2 foi = 0.1327 s
+Tempo de treinamento para fold = 3 foi = 0.3891 s
+Tempo de treinamento para fold = 4 foi = 0.1468 s
+Tempo de treinamento para fold = 5 foi = 0.1085 s
+
+Dataset = dadosAtt20 com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.1629 s
+Tempo de treinamento para fold = 2 foi = 0.1535 s
+Tempo de treinamento para fold = 3 foi = 0.1400 s
+Tempo de treinamento para fold = 4 foi = 0.1328 s
+Tempo de treinamento para fold = 5 foi = 0.1386 s
+
+Dataset = dadosLabel05 com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.2084 s
+Tempo de treinamento para fold = 2 foi = 0.2269 s
+Tempo de treinamento para fold = 3 foi = 0.2176 s
+Tempo de treinamento para fold = 4 foi = 0.2064 s
+Tempo de treinamento para fold = 5 foi = 0.2320 s
+
+Dataset = dadosLabel05 com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.2069 s
+Tempo de treinamento para fold = 2 foi = 0.2336 s
+Tempo de treinamento para fold = 3 foi = 0.2145 s
+Tempo de treinamento para fold = 4 foi = 0.2118 s
+Tempo de treinamento para fold = 5 foi = 0.2121 s
+
+Dataset = dadosLabel05 com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.2257 s
+Tempo de treinamento para fold = 2 foi = 0.2127 s
+Tempo de treinamento para fold = 3 foi = 0.2148 s
+Tempo de treinamento para fold = 4 foi = 0.2569 s
+Tempo de treinamento para fold = 5 foi = 0.2433 s
+
+Dataset = dadosLabel10 com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.2497 s
+Tempo de treinamento para fold = 2 foi = 0.2246 s
+Tempo de treinamento para fold = 3 foi = 0.2008 s
+Tempo de treinamento para fold = 4 foi = 0.2053 s
+Tempo de treinamento para fold = 5 foi = 0.1996 s
+
+Dataset = dadosLabel10 com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.2306 s
+Tempo de treinamento para fold = 2 foi = 0.2463 s
+Tempo de treinamento para fold = 3 foi = 0.2044 s
+Tempo de treinamento para fold = 4 foi = 0.1911 s
+Tempo de treinamento para fold = 5 foi = 0.1851 s
+
+Dataset = dadosLabel10 com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.2083 s
+Tempo de treinamento para fold = 2 foi = 0.2406 s
+Tempo de treinamento para fold = 3 foi = 0.1681 s
+Tempo de treinamento para fold = 4 foi = 0.2344 s
+Tempo de treinamento para fold = 5 foi = 0.2046 s
+
+Dataset = dadosLabel20 com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.2054 s
+Tempo de treinamento para fold = 2 foi = 0.2125 s
+Tempo de treinamento para fold = 3 foi = 0.2204 s
+Tempo de treinamento para fold = 4 foi = 0.1818 s
+Tempo de treinamento para fold = 5 foi = 0.2025 s
+
+Dataset = dadosLabel20 com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.2526 s
+Tempo de treinamento para fold = 2 foi = 0.2392 s
+Tempo de treinamento para fold = 3 foi = 0.2397 s
+Tempo de treinamento para fold = 4 foi = 0.2129 s
+Tempo de treinamento para fold = 5 foi = 0.5580 s
+
+Dataset = dadosLabel20 com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.2286 s
+Tempo de treinamento para fold = 2 foi = 0.2343 s
+Tempo de treinamento para fold = 3 foi = 0.2217 s
+Tempo de treinamento para fold = 4 foi = 0.2288 s
+Tempo de treinamento para fold = 5 foi = 0.2209 s
+
+Dataset = dados_sinteticos com MD = 5
+Tempo de treinamento para fold = 1 foi = 0.1691 s
+Tempo de treinamento para fold = 2 foi = 0.1925 s
+Tempo de treinamento para fold = 3 foi = 0.1505 s
+Tempo de treinamento para fold = 4 foi = 0.1813 s
+Tempo de treinamento para fold = 5 foi = 0.2163 s
+
+Dataset = dados_sinteticos com MD = 10
+Tempo de treinamento para fold = 1 foi = 0.1880 s
+Tempo de treinamento para fold = 2 foi = 0.1860 s
+Tempo de treinamento para fold = 3 foi = 0.1853 s
+Tempo de treinamento para fold = 4 foi = 0.1800 s
+Tempo de treinamento para fold = 5 foi = 0.2188 s
+
+Dataset = dados_sinteticos com MD = 20
+Tempo de treinamento para fold = 1 foi = 0.1532 s
+Tempo de treinamento para fold = 2 foi = 0.1749 s
+Tempo de treinamento para fold = 3 foi = 0.1694 s
+Tempo de treinamento para fold = 4 foi = 0.1860 s
+Tempo de treinamento para fold = 5 foi = 0.1968 s
+Tempo de total de processamento total para BAYESIAN foi = 42.6223 s

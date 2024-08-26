@@ -1,0 +1,22 @@
+,Model,Dataset,Missing Rate,MAE_mean,MAE_std
+63,missForest,dadosAtt05,5,0.279,0.028
+64,missForest,dadosAtt05,10,0.256,0.014
+65,missForest,dadosAtt05,20,0.249,0.014
+66,missForest,dadosAtt10,5,0.288,0.031
+67,missForest,dadosAtt10,10,0.27,0.017
+68,missForest,dadosAtt10,20,0.253,0.014
+69,missForest,dadosAtt20,5,0.295,0.017
+70,missForest,dadosAtt20,10,0.278,0.017
+71,missForest,dadosAtt20,20,0.259,0.012
+72,missForest,dadosLabel05,5,0.287,0.059
+73,missForest,dadosLabel05,10,0.271,0.048
+74,missForest,dadosLabel05,20,0.264,0.05
+75,missForest,dadosLabel10,5,0.28,0.066
+76,missForest,dadosLabel10,10,0.266,0.058
+77,missForest,dadosLabel10,20,0.264,0.049
+78,missForest,dadosLabel20,5,0.283,0.062
+79,missForest,dadosLabel20,10,0.271,0.051
+80,missForest,dadosLabel20,20,0.263,0.047
+81,missForest,dados_sinteticos,5,0.249,0.03
+82,missForest,dados_sinteticos,10,0.244,0.016
+83,missForest,dados_sinteticos,20,0.237,0.015

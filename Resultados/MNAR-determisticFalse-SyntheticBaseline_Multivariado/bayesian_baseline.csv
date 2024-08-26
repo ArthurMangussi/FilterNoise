@@ -1,0 +1,22 @@
+,Model,Dataset,Missing Rate,MAE_mean,MAE_std
+21,bayesian,dadosAtt05,5,0.243,0.024
+22,bayesian,dadosAtt05,10,0.229,0.016
+23,bayesian,dadosAtt05,20,0.215,0.01
+24,bayesian,dadosAtt10,5,0.274,0.027
+25,bayesian,dadosAtt10,10,0.254,0.018
+26,bayesian,dadosAtt10,20,0.236,0.014
+27,bayesian,dadosAtt20,5,0.289,0.019
+28,bayesian,dadosAtt20,10,0.277,0.015
+29,bayesian,dadosAtt20,20,0.253,0.013
+30,bayesian,dadosLabel05,5,0.255,0.058
+31,bayesian,dadosLabel05,10,0.245,0.054
+32,bayesian,dadosLabel05,20,0.234,0.055
+33,bayesian,dadosLabel10,5,0.253,0.056
+34,bayesian,dadosLabel10,10,0.245,0.055
+35,bayesian,dadosLabel10,20,0.234,0.055
+36,bayesian,dadosLabel20,5,0.255,0.059
+37,bayesian,dadosLabel20,10,0.246,0.053
+38,bayesian,dadosLabel20,20,0.235,0.054
+39,bayesian,dados_sinteticos,5,0.228,0.024
+40,bayesian,dados_sinteticos,10,0.223,0.015
+41,bayesian,dados_sinteticos,20,0.208,0.012
