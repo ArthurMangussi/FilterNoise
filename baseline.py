@@ -1,7 +1,7 @@
 import sys
 sys.path.append("./")
 
-from utilsMsc.MyutilsMsc import MyPipeline
+from utilsMsc.MyUtils import MyPipeline
 from utilsMsc.MyResults import AnalysisResults
 from utilsMsc.MyPreprocessing import PreprocessingDatasets
 from utilsMsc.MyModels import ModelsImputation
@@ -16,7 +16,7 @@ from imblearn.under_sampling import EditedNearestNeighbours
 import numpy as np 
 
 from utilsMsc.MeLogSingle import MeLogger
-from MyNoise import Noise
+from utilsMsc.MyNoise import Noise
 
 # Ignorar todos os avisos
 warnings.filterwarnings("ignore")

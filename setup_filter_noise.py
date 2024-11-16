@@ -16,7 +16,7 @@ from imblearn.under_sampling import EditedNearestNeighbours
 import numpy as np 
 
 from utilsMsc.MeLogSingle import MeLogger
-from MyNoise import Noise
+from utilsMsc.MyNoise import Noise
 
 # Ignorar todos os avisos
 warnings.filterwarnings("ignore")

@@ -1,17 +1,52 @@
 # Assessing Adversarial Effects of Noise in Missing Data Imputation
 
-Codebase for the conference paper: *Assessing Adversarial Effects of Noise in Missing Data Imputation* presented in 34th Brazilian Conference on Intelligent Systems (BRACIS)
+Codebase for the conference paper: *Assessing Adversarial Effects of Noise in Missing Data Imputation*, accepted and presented at the [34th Brazilian Conference on Intelligent Systems (BRACIS)](https://bracis.sbc.org.br/2024/34th-brazilian-conference-on-intelligent-systems-bracis/)
 
 ## Paper Details
-- Authors: Arthur Dantas Mangussi, Ricardo Cardoso Pereira, Ana Carolina Lorena e Pedro Henriques Abreu
-- Abtract:
-- Published in:
-- Year:
+- Authors: Arthur Dantas Mangussi, Ricardo Cardoso Pereira, Pedro Henriques Abreu, and Ana Carolina Lorena
+- Abtract: In real-world scenarios, a wide variety of datasets contain inconsistencies. 
+One example of such inconsistency is missing data (MD),
+which refers to the absence of information in one or more variables. Missing
+imputation strategies emerged as a possible solution for addressing
+this problem, which can replace the missing values based on mean, median,
+or Machine Learning (ML) techniques. The performance of such
+strategies depends on multiple factors. One factor that influences the
+missing value imputation (MVI) methods is the presence of noisy instances,
+described as anything that obscures the relationship between
+the features of an instance and its class, having an adversarial effect.
+However, the interaction between MD and noisy instances has received
+little attention in the literature. This work fills this gap by investigating
+missing and noisy data interplay. Our experimental setup begins
+with generating missingness under the Missing Not at Random (MNAR)
+mechanism in a multivariate scenario and performing imputation using
+seven state-of-the-art MVI methods. Our methodology involves applying
+a noise filter before performing the imputation task and evaluating the
+quality of the imputation directly. Additionally, we measure the classification
+performance with the new estimates. This approach is applied
+to both synthetic data and 11 real-world datasets. The effects of noise
+filtering before imputation are evaluated. The results show that noise
+preprocessing before the imputation task improves the imputation quality
+and the classification performance for imputed datasets.
+- Published in: Proceedings of 34th Brazilian Conference on Intelligent Systems (BRACIS)
+- Year: 2024
 - DOI:
 - Contact: mangussiarthur@gmail.com
 
+## Paper and Presentation
+- The original paper could be acess [here](presentatios/)
+- The PDF presentation is available [here]()
+
+## Dependencies
+You'll need a working Python environment to run the code. The required dependencies are specified in the file ```requirements.txt.
+
+You can install all required dependencies by running:
+```bash
+pip install -r requirements.txt
+```
+
+
 ## Citation
-The original paper could be acess [here]()
+If you use this work, please cite:
 
 Bibtex entry:
 ```bash
@@ -22,7 +57,6 @@ Bibtex entry:
     DAYS={23-21},
     MONTH={may},
     YEAR={2024},
-    ABSTRACT={In real-world scenarios, a huge variety of datasets contain inconsistencies. An example of such inconsistencies is missing data (MD), which is the lack of information in one or multiple variables. Missing imputation strategies emerged as a possible solution for addressing such a problem, which can replace the missing values based on mean, median, or Machine Learning (ML) techniques. The performance of such strategies depends on multiple factors. One factor that influences the missing value imputation (MVI) methods is the presence of noisy instances, described as anything that obscures the relationship between the features of an instance and its class, having an adversarial effect. However, the interaction between MD and noisy instances has received little attention in the literature. This work fills this gap by investigating missing and noisy data interplay. Our experimental setup begins with generating missingness under the Missing Not at Random (MNAR) mechanism in a multivariate scenario and performing imputation using seven state-of-the-art MVI methods. Subsequently, we apply our methodology to 11 real-world datasets. The effects of noise filtering before imputation are evaluated. The results show that noise preprocessing before the imputation task improves the imputation quality and the classification performance for imputed datasets.},
     KEYWORDS={Machine Learning and Data Mining},
     URL={"http://XXXXX/240957.pdf"}}}}
 

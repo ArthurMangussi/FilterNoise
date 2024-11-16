@@ -1,0 +1,6 @@
+mdatagen==1.63
+pandas
+numpy
+imbalanced-learn
+scikit-learn
+tensorflow==2.15

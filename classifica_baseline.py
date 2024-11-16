@@ -7,10 +7,10 @@ from sklearn.model_selection import RandomizedSearchCV, StratifiedKFold
 from sklearn.metrics import f1_score
 from utilsMsc.MyPreprocessing import PreprocessingDatasets
 
-from utilsMsc.MyutilsMsc import MyPipeline
-from Noise.MyNoise import Noise
+from utilsMsc.MyUtils import MyPipeline
+from utilsMsc.MyNoise import Noise
 
-diretorio_principal = "C:\\Users\\Mult-e\\Desktop\\@Codigos\\MestradoCodigos\\MestradoCodigos\\Noise\\DatasetsNoise"
+diretorio_principal = "./Original Datasets"
 datasets = MyPipeline.carrega_datasets(diretorio_principal)
 noise = Noise(datasets)
 
@@ -70,4 +70,4 @@ for dados, nome in zip(tabela_resultados["datasets"], tabela_resultados["nome_da
     tabela_final_resultados[f"{nome}"] = f"{round(media_f1,3)}-{round(std,3)}"
             
     resultados = pd.DataFrame([tabela_final_resultados]).T
-    resultados.to_csv(f"C:\\Users\\Mult-e\\Desktop\\@Codigos\\MestradoCodigos\\MestradoCodigos\\Noise\\Resultados\\f1_mnar_baseline.csv")
+    resultados.to_csv(f"./Resultados/f1_mnar_baseline.csv")

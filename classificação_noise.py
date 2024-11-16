@@ -58,7 +58,7 @@ def pipeline_classifica_noise(nome_dataset:str,
     return all_f1
 
 if __name__ == "__main__":
-    path = "C:\\Users\\Mult-e\\Desktop\\@Codigos\\MestradoCodigos\\MestradoCodigos\\Noise\\Datasets\\MNAR-determisticFalse_Multivariado\\All"
+    path = "./Imputed Datasets/MNAR-determisticFalse_Multivariado/All"
 
     tabela_final_resultados = {}
     parameters = {"n_estimators": np.arange(10, 100, 10),
@@ -88,7 +88,7 @@ if __name__ == "__main__":
                             "law"]:
             
             for md in [5,10,20]:
-                complete_path = f"{path}\\{name_dataset}_{model_impt}_md{md}.csv"
+                complete_path = f"{path}/{name_dataset}_{model_impt}_md{md}.csv"
 
                 df = pd.read_csv(complete_path)
 
@@ -103,4 +103,4 @@ if __name__ == "__main__":
                 tabela_final_resultados[f"{name_dataset}_{model_impt}_md{md}"] = f"{round(media_f1,3)}-{round(std,3)}"
                 
         resultados = pd.DataFrame([tabela_final_resultados]).T
-        resultados.to_csv(f"C:\\Users\\Mult-e\\Desktop\\@Codigos\\MestradoCodigos\\MestradoCodigos\\Noise\\Resultados\\f1_mnar_{model_impt}.csv")
+        resultados.to_csv(f"./Resultados/f1_mnar_{model_impt}.csv")
