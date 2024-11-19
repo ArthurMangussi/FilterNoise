@@ -33,8 +33,8 @@ and the classification performance for imputed datasets.
 - Contact: mangussiarthur@gmail.com
 
 ## Paper and Presentation
-- The original paper could be acess [here](./presentatios/BRACIS2024.pdf)
-- The PDF presentation is available [here](./presentatios/Apresentação_BRACIS2024.pdf)
+- The original paper could be acess [here](presentations/BRACIS2024.pdf)
+- The PDF presentation is available [here](presentations/Apresentação_BRACIS2024.pdf)
 
 ## Dependencies
 You'll need a working Python environment to run the code. The required dependencies are specified in the file `requirements.txt`.
