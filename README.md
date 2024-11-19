@@ -27,39 +27,29 @@ to both synthetic data and 11 real-world datasets. The effects of noise
 filtering before imputation are evaluated. The results show that noise
 preprocessing before the imputation task improves the imputation quality
 and the classification performance for imputed datasets.
-- Published in: Proceedings of 34th Brazilian Conference on Intelligent Systems (BRACIS)
 - Year: 2024
-- DOI:
+- Published in: Will be available as soon as the conference proceedings are published.
+- DOI: Will be available as soon as the conference proceedings are published.
 - Contact: mangussiarthur@gmail.com
 
 ## Paper and Presentation
-- The original paper could be acess [here](presentatios/)
-- The PDF presentation is available [here]()
+- The original paper could be acess [here](presentatios/BRACIS2024.pdf)
+- The PDF presentation is available [here](presentatios/Apresentação_BRACIS2024.pdf)
 
 ## Dependencies
-You'll need a working Python environment to run the code. The required dependencies are specified in the file ```requirements.txt.
+You'll need a working Python environment to run the code. The required dependencies are specified in the file `requirements.txt`.
 
 You can install all required dependencies by running:
 ```bash
 pip install -r requirements.txt
 ```
 
-
 ## Citation
 If you use this work, please cite:
 
 Bibtex entry:
 ```bash
-@INPROCEEDINGS{Mangussi2024,
-    AUTHOR={Arthur Mangussi and Ricardo Cardoso Pereira and Pedro Henriques Abreu and Ana Carolina Lorena},
-    TITLE={Assessing Adversarial Effects of Noise in Missing Data Imputation},
-    BOOKTITLE={BRACIS 2024 ()},
-    DAYS={23-21},
-    MONTH={may},
-    YEAR={2024},
-    KEYWORDS={Machine Learning and Data Mining},
-    URL={"http://XXXXX/240957.pdf"}}}}
-
+Will be available as soon as the conference proceedings are published.
 ```
 ## Acknowledgements
 The authors gratefully acknowledge the Brazilian funding agencies FAPESP (Fundação Amparo à Pesquisa do Estado de São Paulo) under grants 2022/10553-6, 2023/13688-2, and 2021/06870-3. Moreover, this research was supported by Portuguese Recovery and Resilience Plan (PRR) through project C645008882-00000055 Center for Responsable AI.
