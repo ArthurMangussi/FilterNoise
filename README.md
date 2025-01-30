@@ -27,9 +27,8 @@ to both synthetic data and 11 real-world datasets. The effects of noise
 filtering before imputation are evaluated. The results show that noise
 preprocessing before the imputation task improves the imputation quality
 and the classification performance for imputed datasets.
-- Year: 2024
-- Published in: Will be available as soon as the conference proceedings are published.
-- DOI: Will be available as soon as the conference proceedings are published.
+- Year: 2025
+- DOI: [doi](https://doi.org/10.1007/978-3-031-79029-4_14)
 - Contact: mangussiarthur@gmail.com
 
 ## Paper and Presentation
@@ -49,7 +48,21 @@ If you use this work, please cite:
 
 Bibtex entry:
 ```bash
-Will be available as soon as the conference proceedings are published.
+@InProceedings{Mangussi2025,
+author="Mangussi, Arthur Dantas
+and Pereira, Ricardo Cardoso
+and Abreu, Pedro Henriques
+and Lorena, Ana Carolina",
+editor="Paes, Aline
+and Verri, Filipe A. N.",
+title="Assessing Adversarial Effects of Noise in Missing Data Imputation",
+booktitle="Intelligent Systems",
+year="2025",
+publisher="Springer Nature Switzerland",
+address="Cham",
+pages="200--214",
+isbn="978-3-031-79029-4"
+}
 ```
 ## Acknowledgements
 The authors gratefully acknowledge the Brazilian funding agencies FAPESP (Fundação Amparo à Pesquisa do Estado de São Paulo) under grants 2022/10553-6, 2023/13688-2, and 2021/06870-3. Moreover, this research was supported by Portuguese Recovery and Resilience Plan (PRR) through project C645008882-00000055 Center for Responsable AI.
